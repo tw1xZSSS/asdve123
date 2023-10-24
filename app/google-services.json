@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "564295152884",
+    "firebase_url": "https://diplombase-797a5-default-rtdb.firebaseio.com",
+    "project_id": "diplombase-797a5",
+    "storage_bucket": "diplombase-797a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564295152884:android:9e344e4cc8e72e5c659aa1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgf_vKKChVupjBp7XeFNn03UTO9hMgRZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
